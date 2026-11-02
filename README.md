@@ -3,8 +3,13 @@
 <img src="art/banner.svg" width="100%" alt="OmniHarp: a cream instrument panel with rows of pastel chord buttons and a twelve-string harp. It plays C, A minor, F and G, strumming the strings on each chord.">
 
 ### Press a chord. Run a finger across the strings.
-
 An Omnichord-inspired instrument for your DAW
+
+<p align="center">
+  <a href="https://omniharp.com"><img src="https://img.shields.io/badge/Website-Omniharp-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="🌐 Website" /></a> 
+  <a href="https://martidan.gumroad.com/l/meetingpilot"><img src="https://img.shields.io/badge/Support-Gumroad-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Support on Gumroad" /></a>
+</p>
+
 
 <br>
 
