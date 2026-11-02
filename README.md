@@ -13,8 +13,8 @@ An Omnichord-inspired instrument for your DAW
 
 <br>
 
-<a href="https://github.com/mard4/omniharp-releases/releases/latest/download/OmniHarp-macOS.zip"><img src="art/download-macos.svg" width="400" alt="Download for macOS: VST3, AU and Standalone, macOS 12 or later"></a>
-<a href="https://github.com/mard4/omniharp-releases/releases/latest/download/OmniHarp-Windows.zip"><img src="art/download-windows.svg" width="400" alt="Download for Windows: VST3 and Standalone, 64-bit"></a>
+<a href="https://martidan.gumroad.com/l/omniharp"><img src="art/download-macos.svg" width="400" alt="Download for macOS: VST3, AU and Standalone, macOS 12 or later"></a>
+<a href="https://martidan.gumroad.com/l/omniharp"><img src="art/download-windows.svg" width="400" alt="Download for Windows: VST3 and Standalone, 64-bit"></a>
 
 <img src="art/divider.svg" width="220" alt="">
 
