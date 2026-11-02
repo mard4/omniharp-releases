@@ -4,18 +4,12 @@
 
 ### Press a chord. Run a finger across the strings.
 
-An Omnichord-inspired instrument for your DAW, or on its own.
+An Omnichord-inspired instrument for your DAW
 
 <br>
 
 <a href="https://github.com/mard4/omniharp-releases/releases/latest/download/OmniHarp-macOS.zip"><img src="art/download-macos.svg" width="400" alt="Download for macOS: VST3, AU and Standalone, macOS 12 or later"></a>
 <a href="https://github.com/mard4/omniharp-releases/releases/latest/download/OmniHarp-Windows.zip"><img src="art/download-windows.svg" width="400" alt="Download for Windows: VST3 and Standalone, 64-bit"></a>
-
-<sub>Runs on Apple Silicon and Intel Macs. <a href="https://github.com/mard4/omniharp-releases/releases">All releases</a></sub>
-
-<br><br>
-
-<br>
 
 <img src="art/divider.svg" width="220" alt="">
 
@@ -139,6 +133,7 @@ Some DAWs, Ableton Live among them, send every note on channel 1, so the two cha
 - **Formats:** VST3 and Standalone on both systems, plus Audio Unit on macOS.
 - **Local control port:** while running, OmniHarp listens on a port between 9890 and 9899, on your own computer only, for its optional MCP control.
 - **Problems:** [open an issue](https://github.com/mard4/omniharp-releases/issues) with your system and DAW.
+<sub>Runs on Apple Silicon and Intel Macs. <a href="https://github.com/mard4/omniharp-releases/releases">All releases</a></sub>
 
 ## Credits
 
