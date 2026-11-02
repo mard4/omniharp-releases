@@ -7,7 +7,7 @@ An Omnichord-inspired instrument for your DAW
 
 <p align="center">
   <a href="https://omniharp.com"><img src="https://img.shields.io/badge/Website-Omniharp-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="🌐 Website" /></a> 
-  <a href="https://martidan.gumroad.com/l/meetingpilot"><img src="https://img.shields.io/badge/Support-Gumroad-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Support on Gumroad" /></a>
+  <a href="https://martidan.gumroad.com/l/omniharp?wanted=true"><img src="https://img.shields.io/badge/Support-Gumroad-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Support on Gumroad" /></a>
 </p>
 
 
