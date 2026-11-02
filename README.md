@@ -11,11 +11,9 @@ An Omnichord-inspired instrument for your DAW, or on its own.
 <a href="https://github.com/mard4/omniharp-releases/releases/latest/download/OmniHarp-macOS.zip"><img src="art/download-macos.svg" width="400" alt="Download for macOS: VST3, AU and Standalone, macOS 12 or later"></a>
 <a href="https://github.com/mard4/omniharp-releases/releases/latest/download/OmniHarp-Windows.zip"><img src="art/download-windows.svg" width="400" alt="Download for Windows: VST3 and Standalone, 64-bit"></a>
 
-<sub>Free download. No account. Runs natively on Apple Silicon and Intel Macs. <a href="https://github.com/mard4/omniharp-releases/releases">All releases</a></sub>
+<sub>Runs on Apple Silicon and Intel Macs. <a href="https://github.com/mard4/omniharp-releases/releases">All releases</a></sub>
 
 <br><br>
-
-<img src="art/omniharp.png" width="100%" alt="The OmniHarp plugin window: power, sound and chorus controls, six rhythms, 27 chord buttons, a Chord Computer, take tiles and a twelve-string harp.">
 
 <br>
 
@@ -23,20 +21,12 @@ An Omnichord-inspired instrument for your DAW, or on its own.
 
 </div>
 
-## The idea
-
-The Omnichord is the odd, lovely electronic instrument Suzuki made in the 1980s. You hold down a chord, brush your fingers over a touch plate, and a shimmer of harp comes out in key. You can't play a wrong note, and it sounds like an old dream of the future.
-
-OmniHarp brings that into your music software, using OM-27 recordings. It looks like a harp grew out of the side of an Omnichord.
-
-<div align="center"><img src="art/divider.svg" width="220" alt=""></div>
-
 ## What's inside
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
+  
 **27 chords, and a few more**<br>
 Major, minor and 7th in nine keys. Hold two buttons in a column for the OM-84's maj7, m7 and dim.
 
@@ -86,12 +76,14 @@ OmniHarp quietly records everything you play. Drag the MIDI TAKE tile onto a tra
 </tr>
 </table>
 
+<img src="art/omniharp.png" width="100%" alt="The OmniHarp plugin window: power, sound and chorus controls, six rhythms, 27 chord buttons, a Chord Computer, take tiles and a twelve-string harp.">
+
 <div align="center"><img src="art/divider.svg" width="220" alt=""></div>
 
 ## Install
 
 <details open>
-<summary><b>macOS</b> (signed and notarized)</summary>
+<summary><b>macOS</b> </summary>
 <br>
 
 1. Unzip the download.
@@ -146,16 +138,8 @@ Some DAWs, Ableton Live among them, send every note on channel 1, so the two cha
 
 - **Formats:** VST3 and Standalone on both systems, plus Audio Unit on macOS.
 - **Local control port:** while running, OmniHarp listens on a port between 9890 and 9899, on your own computer only, for its optional MCP control.
-- **Source:** this repository holds the downloads only. The code isn't public.
 - **Problems:** [open an issue](https://github.com/mard4/omniharp-releases/issues) with your system and DAW.
 
 ## Credits
 
-The chord, harp and rhythm sounds are OM-27 recordings from [online-omnichord](https://github.com/arcticmatt/online-omnichord), the project behind [onlineomnichord.com](https://onlineomnichord.com/), and they remain the property of their owners. If you own any of this material and would like it removed, please [open an issue](https://github.com/mard4/omniharp-releases/issues) and it will be taken down.
-
 OmniHarp is an independent fan project, not affiliated with or endorsed by Suzuki. Built with [JUCE](https://juce.com/).
-
-<div align="center">
-<br>
-<sub>Made with love for a very strange instrument.</sub>
-</div>
